@@ -1,5 +1,8 @@
 #include <vector>
+#include <stdio.h>
 using namespace std;
+
+vector<int> capacities,bottles,fromId,toId;
 
 class KiwiJuiceEasy {
 public:
